@@ -1,7 +1,8 @@
-# js-test-app
+# electron-test-app
 click to ungay
 
-# dependacies 
+# requirements
 a) bootstrap\
 b) jquery\
-c) you first need to be gay to ungay yourself
+c) anything but electron (maybe neutron?)\
+d) you need to be gay
